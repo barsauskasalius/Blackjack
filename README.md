@@ -1,1 +1,1 @@
-# Blackjack game logic.
+# Blackjack game logic
